@@ -17,6 +17,7 @@ namespace _8class
             album.Add(new Song("Parickmaxer d9d9 Tolik"));
             album.Add(new Song("Its' my life"));
             album.Add(new Song("Sorry for party rocking"));
+            //very good test
         }
 
         public Song this[int index]
